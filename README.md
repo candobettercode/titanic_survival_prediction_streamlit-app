@@ -1,4 +1,4 @@
 # titanic_survival_prediction_streamlit-app
 
-Link:
-https://titanic-survival-prediction-app.streamlit.app/
+Video Link:https://youtu.be/sVJ7ALLzpxk
+
